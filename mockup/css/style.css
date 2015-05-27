@@ -1,0 +1,38 @@
+body {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	color: #747704;
+}
+
+a {
+	color: #747704;
+}
+
+.text-lightgrey {
+	color: #BCBBBB;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.text-item-title {
+	font-size: 2.5em;
+}
+
+.text-giant {
+	font-size: 4em;
+}
+
+.logo {
+	margin-top: 15px;
+}
+
+.thick-line {
+	border-width: .3em; 
+}
+
+.text-featuredwork {
+	font-size: 2.5em;
+	margin-left: 10px;
+}
